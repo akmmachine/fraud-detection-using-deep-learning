@@ -1,7 +1,8 @@
 streamlit
 joblib
 torch
+torch_geometric
 pandas
 numpy
 Pillow
-torch_geometric
+scikit-learn
