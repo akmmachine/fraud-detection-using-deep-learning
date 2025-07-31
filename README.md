@@ -4,9 +4,6 @@ This project implements a hybrid deep learning system to detect fraudulent credi
 
 The entire application is wrapped in a user-friendly web interface built with Streamlit.
 
-🎥 Live Demo
--
-A brief GIF or video of the application in action would be ideal here.
 
 ✨ Features
 -
